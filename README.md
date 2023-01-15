@@ -1,9 +1,9 @@
 ﻿# BaikeSpider
 
-大二上学期刚刚接触爬虫的时候，写的爬取百度百科关于python词条的程序。
-我的环境是eclipse+BeautifulSoup4+urllib2.
+实验环境：Eclipse+BeautifulSoup4+urllib2
+刚刚接触爬虫的时候，写的爬取百度百科关于python词条的程序。
 
-下面是我当时爬取的截图：
+爬取的截图：
 
 
 
